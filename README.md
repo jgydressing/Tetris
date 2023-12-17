@@ -1,1 +1,1 @@
-blocks is Tetris block code.
+blocks.js is Tetris block code.
